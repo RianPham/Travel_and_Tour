@@ -126,7 +126,7 @@ function Main() {
 
         <div className="secTitle">
           <h1 className="title" data-aos="fade-right">
-            Most visited destinations
+            Most Visited Destinations
           </h1>
         </div>
 

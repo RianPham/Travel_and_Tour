@@ -41,7 +41,7 @@ function Home() {
 
           <h1 data-aos="fade-up" 
             className="homeTitle">
-            Search you Holiday
+            Search You Holiday
           </h1>         
 
         </div>
